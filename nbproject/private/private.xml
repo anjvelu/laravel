@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/var/opt/laravel_project/myproject/app/database/seeds/UserTableSeeder.php</file>
+            <file>file:/var/opt/laravel_project/myproject/app/database/migrations/2014_11_27_100033_add_authers.php</file>
+            <file>file:/var/opt/laravel_project/myproject/vendor/laravel/framework/src/Illuminate/Auth/Guard.php</file>
+            <file>file:/var/opt/laravel_project/myproject/vendor/laravel/framework/src/Illuminate/Database/Schema/Blueprint.php</file>
+            <file>file:/var/opt/laravel_project/myproject/app/controllers/HomeController.php</file>
+            <file>file:/var/opt/laravel_project/myproject/app/config/auth.php</file>
+            <file>file:/var/opt/laravel_project/myproject/app/database/migrations/2014_11_25_100036_create_users_table.php</file>
+        </group>
+    </open-files>
+</project-private>
